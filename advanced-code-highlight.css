@@ -1,0 +1,9 @@
+
+.reveal
+  div.sourceCode
+  pre
+  code.has-advanced-highlights
+  > span:not(.highlight-line) {
+  opacity: 0.1;
+}
+

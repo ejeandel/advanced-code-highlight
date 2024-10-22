@@ -1,0 +1,11 @@
+title: AdvancedCodeHighLight
+author: Emmanuel Jeandel
+version: 0.1.0
+quarto-required: ">=1.2.0"
+contributes:
+  revealjs-plugins:
+    - name: AdvancedCodeHighLight
+      script:
+        - advanced-code-highlight.js
+      stylesheet:
+        - advanced-code-highlight.css
